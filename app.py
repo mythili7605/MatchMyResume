@@ -9,8 +9,8 @@ import PyPDF2
 # CONFIG
 # ==============================
 # Ensure the upload folder exists for temporary processing
-UPLOAD_FOLDER = "uploads"
-os.makedirs(UPLOAD_FOLDER, exist_ok=True)
+import tempfile
+UPLOAD_FOLDER = tempfile.gettempdir()
 
 # Load environment variables from .env if present (robust fallback)
 if os.path.exists(".env"):
