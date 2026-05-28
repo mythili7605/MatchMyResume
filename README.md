@@ -123,6 +123,8 @@ python app.py
 ---
 
 ## Screenshots
+<img width="1845" height="889" alt="image" src="https://github.com/user-attachments/assets/a0d61ed1-3745-41e8-9071-05647cf7282e" />
+
 
 
 
