@@ -124,7 +124,11 @@ python app.py
 
 ## Screenshots
 
+
+
 <img width="1877" height="906" alt="image" src="https://github.com/user-attachments/assets/f6c4efe5-daef-4ac8-ba92-1f568850c6f8" />
+<img width="1902" height="817" alt="image" src="https://github.com/user-attachments/assets/c6149500-fedc-480d-b60a-b3bf485cc70e" />
+
 
 
 ## Contributing
