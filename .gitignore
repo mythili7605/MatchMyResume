@@ -1,0 +1,13 @@
+# Sensitive files
+.env
+
+# Python build and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary uploads folder
+uploads/
+
+# Logs
+*.log
